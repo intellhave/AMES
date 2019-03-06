@@ -1,4 +1,4 @@
-# Non-smooth M-Estimator for Maximum Consensus Estimation
+# Non-smooth M-Estimator for Maximum Consensus
 
 ## Description
 Demo program for the paper:
